@@ -1,4 +1,4 @@
-package com.example.betcal
+package io.betcal
 
 import io.flutter.embedding.android.FlutterActivity
 

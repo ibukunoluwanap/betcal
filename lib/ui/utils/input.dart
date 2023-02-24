@@ -1,3 +1,4 @@
+import 'package:betcal/ui/utils/color.dart';
 import 'package:flutter/material.dart';
 
 class Input {
@@ -7,7 +8,7 @@ class Input {
     this.suffix,
     this.suffixIcon,
     this.suffixIconOnTap,
-    this.color = Colors.pink,
+    this.color = primary,
     this.isFloatingLabel = true,
     this.isFixedLabel = false,
   });
